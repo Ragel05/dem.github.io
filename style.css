@@ -1,2 +1,7 @@
-background-color: #fffde7; /* Очень светлый жёлтый, почти белый */
-color: #333333;            /* Тёмно-серый текст */
+b body {
+      background-color: yellow;
+      color: black;            
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
