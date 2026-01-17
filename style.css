@@ -1,24 +1,2 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Мой сайт</title>
-  <style>
-    body {
-      background-color: #1e1e2e;
-      color: #a9b7c6;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      color: #9cdcfe;
-    }
-  </style>
-</head>
-<body>
-  <h1>Добро пожаловать!</h1>
-  <p>Цвет сайта изменён через CSS в index.html</p>
-</body>
-</html>
+background-color: #fffde7; /* Очень светлый жёлтый, почти белый */
+color: #333333;            /* Тёмно-серый текст */
